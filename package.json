@@ -1,0 +1,16 @@
+{
+  "name": "batch_updater",
+  "version": "1.0.0",
+  "description": "Batch updater",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@lenadrolopez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
